@@ -66,7 +66,7 @@ c)
 
 d)
 
-![image](https://user-images.githubusercontent.com/105259459/177770618-34c3c4a4-a01e-41f0-847f-e2b9cb86b59e.png)
+![image](https://user-images.githubusercontent.com/105259459/177782432-10312f2c-7f6d-41f6-8eb5-e5b323951061.png)
 
 [100*(-20)]- [30*50] = (-2000) -(1500) =-3500
 
