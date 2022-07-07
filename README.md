@@ -39,7 +39,9 @@ CAPITULO 10
 
 ![7777](https://user-images.githubusercontent.com/105259459/177781972-b4d733cd-b426-4644-a8a0-f6995f003a6c.png)
 
+![8888](https://user-images.githubusercontent.com/105259459/177830678-460233df-dfe9-4cb3-9b03-bd4831dce8a8.png)
 
+![9999](https://user-images.githubusercontent.com/105259459/177830725-c9dd2322-3b55-4474-b99b-e711f0b872b9.png)
 
 ***
 **EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
