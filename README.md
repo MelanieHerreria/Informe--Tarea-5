@@ -511,7 +511,11 @@ https://www.youtube.com/watch?v=IkJ0yYLDPy4
 ***
 **CONCLUSIONES**
 ***
+- A partir de los resúmenes realizados mediante mapas conceptuales, se puede decir que existen otros tres métodos que implementan la ley de ohm y leyes de Kirchhoff, para el análisis de circuitos con varios lazos o que tienen dos o más fuentes de voltaje o corriente, en el método de corrientes de ramas utilizamos la ley de Kirchhoff para hallar las corrientes en las ramas de un circuito, en el método de corrientes en lazo, se hallas las corrientes que hay en cada malla y en el método de voltajes de nodos se hallan los voltajes independientes de cada nodo. Conocemos los conceptos de magnetismo y electromagnetismo, que es las producciones de un campo magnético por una corriente en un conductor.
 
+- En la resolución de los ejercicios pares del libro “Principios de circuitos eléctricos” de Floyd, se aplicó lo comprendido de los capítulos 9 y 10, donde comprobamos lo importante que es conocer los métodos de análisis de circuitos, para saber cuál elegir y que nuestra resolución no se vuelva tediosa, en este caso se realizó el análisis con tres métodos, el de ramas, lazos y voltaje. También se realizó varios ejercicios sobre electromagnetismo que nos ayuda a comprender mejor temas nuevos como este.
+
+- En el video se justifican 4 ejercicios que se realizaron en el desarrollo del informe, mediante una breve explicación de lo que trata el ejercicio y aplicando las formula dadas
 
 ***
 **BIBLIOGRAFIA**
