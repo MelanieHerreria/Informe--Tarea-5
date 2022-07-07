@@ -31,9 +31,10 @@ CAPITULO 10
 ***
 ![5555](https://user-images.githubusercontent.com/105259459/177769802-d935aceb-d48c-4b94-8615-576789e00855.png)
 
-! [6666] (https://imagenes-de-usuario.githubusercontent.com/105259459/177769696-d1c89345-cb3d-414a-bbd1-61922ba5d314.png)
+![6666](https://user-images.githubusercontent.com/105259459/177781886-7301ddd3-8f58-43a5-98be-af35e6f42d40.png)
 
-![7777](https://user-images.githubusercontent.com/105259459/177769873-21426e92-38d8-43ae-afd0-f7aa3dba5ccc.png)
+![7777](https://user-images.githubusercontent.com/105259459/177781972-b4d733cd-b426-4644-a8a0-f6995f003a6c.png)
+
 
 
 ***
