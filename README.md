@@ -6,12 +6,16 @@
 ***
 **OBJETIVO GENERAL**
 ***
-
+Comprender los temas sobre análisis de ramas, lazos, nodos, magnetismo y electromagnetismo, mediante la lectura de los capítulos 9 y 10 del libro "Principios de circuitos eléctricos" de Floyd, para aplicarlos en la práctica y resolución de ejercicios.
 
 ***
 **OBJETIVOS ESPECIFICOS**
 ***
+- Resumir los temas que se encuentran en el capítulo 9 y 10 del libro "Principios de circuitos eléctricos" de Floyd, mediante el uso de mapas conceptuales.
 
+- Emplear los conocimientos aprendidos con la lectura del capítulo 9 y 10 para la resolución de los ejercicios pares propuestos en el libro "Principios de circuitos eléctricos" de Floyd.
+
+- Explicar mediante un video 4 ejercicios pares del libro "Principios de circuitos eléctricos" de Floyd
 
 ***
 **MARCO TEÓRICO**
